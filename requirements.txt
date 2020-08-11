@@ -3,3 +3,4 @@ nibabel
 imageio
 requests
 tqdm
+pySmartDL
